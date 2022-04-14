@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SallamRady/Food-Recipe-Hub.git/static/css/main.953c1257.css",
+    "main.js": "/SallamRady/Food-Recipe-Hub.git/static/js/main.c5c1d5f7.js",
+    "static/js/787.205be5a4.chunk.js": "/SallamRady/Food-Recipe-Hub.git/static/js/787.205be5a4.chunk.js",
+    "index.html": "/SallamRady/Food-Recipe-Hub.git/index.html",
+    "main.953c1257.css.map": "/SallamRady/Food-Recipe-Hub.git/static/css/main.953c1257.css.map",
+    "main.c5c1d5f7.js.map": "/SallamRady/Food-Recipe-Hub.git/static/js/main.c5c1d5f7.js.map",
+    "787.205be5a4.chunk.js.map": "/SallamRady/Food-Recipe-Hub.git/static/js/787.205be5a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.953c1257.css",
+    "static/js/main.c5c1d5f7.js"
+  ]
+}
